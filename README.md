@@ -8,7 +8,8 @@ $GGUF:=cs.GGUF.new()
 $files:=$GGUF.list()
 ```
 
-`.gguf` files loaded by the following product are listed
+`.gguf` files loaded by the following products are listed:
 
 * LM Studio
 * Ollama
+
